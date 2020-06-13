@@ -80,6 +80,7 @@
     width: 100px;
     background-color: rgb(4, 80, 70);
     padding: 10px 20px;
+    z-index: 2;
   }
   
   .navbar-nav-mobile > li > a {
